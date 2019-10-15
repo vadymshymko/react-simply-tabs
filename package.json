@@ -1,6 +1,6 @@
 {
   "name": "react-simply-tabs",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Simple and small react.js tabs component ",
   "main": "dist/index.js",
   "files": [
