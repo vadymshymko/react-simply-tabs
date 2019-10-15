@@ -1,7 +1,7 @@
 {
   "name": "react-simply-tabs",
   "version": "1.0.0",
-  "description": "Simple react.js tabs component",
+  "description": "Simple and small react.js tabs component ",
   "main": "dist/index.js",
   "files": [
     "dist/"
@@ -30,8 +30,9 @@
     "react",
     "react-tabs",
     "tabs",
+    "tabs-widget",
     "react-component",
-    "tabs-component"
+    "reactjs"
   ],
   "author": "Vadym Shymko <vadymshymko@gmail.com>",
   "license": "MIT",
