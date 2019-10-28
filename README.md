@@ -40,26 +40,26 @@ const App = () => {
 
   return(
     <Tabs
-        activeTabIndex={activeTabIndex}
-        onRequestChange={setActiveTabIndex}
-        controls={[
-          <button type="button">
-            Show 1
-          </button>,
-          <button type="button">
-            Show 2
-          </button>,
-          <button type="button">
-            Show 3
-          </button>,
-        ]}
-      >
-        <div>1 tab</div>
+      activeTabIndex={activeTabIndex}
+      onRequestChange={setActiveTabIndex}
+      controls={[
+        <button type="button">
+          Show 1
+        </button>,
+        <button type="button">
+          Show 2
+        </button>,
+        <button type="button">
+          Show 3
+        </button>,
+      ]}
+    >
+      <div>1 tab</div>
 
-        <div>2 tab</div>
+      <div>2 tab</div>
 
-        <div>3 tab</div>
-      </ReactSimplyTabs>
+      <div>3 tab</div>
+    </Tabs>
   );
 };
 ```
